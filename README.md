@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @raghugopalan
-- 👀 I’m interested in art, film and literature
+- I'm an illutrator and storyteller from India
 
 
 <!---
