@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @raghugopalan
-- I'm an illutrator and storyteller from India
+- Illutrator and storyteller
 
 
 <!---
