@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @raghugopalan
-- Illutrator and storyteller
+- Illustrator and storyteller
 
 
 <!---
