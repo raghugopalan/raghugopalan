@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @raghugopalan
-- Illustrator and storyteller
+# Hi, I'm Raghu G 👋
 
+Designer & Creative Director — crafting clean, intuitive experiences for the web.
 
-<!---
-raghugopalan/raghugopalan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🎨 **UI/UX** — my core strength
+- 🛠️ Building with **Laravel** for web projects
+- 🐍 Writing **CLI tools in Python**
+- 📫 Reach me: [raghug.com](https://raghug.com)
+
+---
+
+### Tech
+`Laravel` `PHP` `Python` `UI/UX` `Figma`
