@@ -1,32 +1,28 @@
 ```
-┌─────────────────────────────────────────────┐
-│  raghu@github:~$ whoami                      │
-└─────────────────────────────────────────────┘
-```
+┌──────────────────────────────────────────────────┐
+│  raghu@github:~$ whoami                           │
+└──────────────────────────────────────────────────┘
 
-```yaml
-name:      Raghu G
-role:      Designer / Creative Director
-focus:     UI/UX (primary strength)
-stack:
-  web:     Laravel
+name     : Raghu G
+role     : Designer / Creative Director
+founder  : RG STUDIO (rgstudio.org)
+focus    : UI/UX (primary strength)
+stack    :
+  web    : Laravel
   scripts: Python (CLI tools)
-contact:   raghug.com
-```
+github   : github.com/raghugopalan
+contact  : raghug.com
 
-```
-┌─────────────────────────────────────────────┐
-│  $ cat skills.txt                            │
-└─────────────────────────────────────────────┘
-```
+┌──────────────────────────────────────────────────┐
+│  raghu@github:~$ cat skills.txt                   │
+└──────────────────────────────────────────────────┘
 
-```
-[ UI/UX Design      ] ████████████████░░░░  80%
-[ Laravel           ] ███████████████░░░░░  75%
-[ Python (CLI)      ] ██████████████░░░░░░  70%
-[ Creative Direction] ██████████████████░░  90%
-```
+[ Creative Direction ] ██████████████████░░  90%
+[ UI/UX Design       ] ████████████████░░░░  80%
+[ Laravel            ] ███████████████░░░░░  75%
+[ Python (CLI)       ] ██████████████░░░░░░  70%
 
-```
-$ ./connect.sh --url raghug.com
+┌──────────────────────────────────────────────────┐
+│  raghu@github:~$ ./connect.sh --url raghug.com    │
+└──────────────────────────────────────────────────┘
 ```
