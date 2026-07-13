@@ -21,10 +21,10 @@ contact:   raghug.com
 ```
 
 ```
-[ UI/UX Design      ] ██████████████████░░  90%
+[ UI/UX Design      ] ████████████████░░░░  80%
 [ Laravel           ] ███████████████░░░░░  75%
 [ Python (CLI)      ] ██████████████░░░░░░  70%
-[ Creative Direction] █████████████████░░░  85%
+[ Creative Direction] ██████████████████░░  90%
 ```
 
 ```
