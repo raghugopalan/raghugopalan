@@ -1,13 +1,32 @@
-# Hi, I'm Raghu G 👋
+```
+┌─────────────────────────────────────────────┐
+│  raghu@github:~$ whoami                      │
+└─────────────────────────────────────────────┘
+```
 
-Designer & Creative Director — crafting clean, intuitive experiences for the web.
+```yaml
+name:      Raghu G
+role:      Designer / Creative Director
+focus:     UI/UX (primary strength)
+stack:
+  web:     Laravel
+  scripts: Python (CLI tools)
+contact:   raghug.com
+```
 
-- 🎨 **UI/UX** — my core strength
-- 🛠️ Building with **Laravel** for web projects
-- 🐍 Writing **CLI tools in Python**
-- 📫 Reach me: [raghug.com](https://raghug.com)
+```
+┌─────────────────────────────────────────────┐
+│  $ cat skills.txt                            │
+└─────────────────────────────────────────────┘
+```
 
----
+```
+[ UI/UX Design      ] ██████████████████░░  90%
+[ Laravel           ] ███████████████░░░░░  75%
+[ Python (CLI)      ] ██████████████░░░░░░  70%
+[ Creative Direction] █████████████████░░░  85%
+```
 
-### Tech
-`Laravel` `PHP` `Python` `UI/UX` `Figma`
+```
+$ ./connect.sh --url raghug.com
+```
