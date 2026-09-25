@@ -1,3 +1,4 @@
+```
 raghu@studio:~$ whoami
 
   Raghu G
@@ -22,3 +23,4 @@ raghu@studio:~$ ./connect.sh
 
   → raghug.com
   → x.com/raghugopalan
+```
