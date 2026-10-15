@@ -1,9 +1,9 @@
-```
+<pre>
 raghu@studio:~$ whoami
 
   Raghu G
-  Designer & Creative Director
-  Founder, RG STUDIO → rgstudio.org
+  Designer &amp; Creative Director
+  Founder, RG STUDIO → <a href="https://rgstudio.org">rgstudio.org</a>
 
 raghu@studio:~$ cat about.txt
 
@@ -13,14 +13,24 @@ raghu@studio:~$ cat about.txt
 
 raghu@studio:~$ cat skills.txt
 
+  # design
   Creative Direction  ███████████████████░  95%
-  Laravel             ██████████████████░░  90%
-  Server Management   ██████████████████░░  90%
+  UI/UX Design        ███████████████████░  95%
+  Product Design      ██████████████████░░  90%
+
+  # words
   Writing             █████████████████░░░  85%
-  UI/UX Design        ████████████████░░░░  80%
+
+  # code
+  MySQL               ███████████████████░  95%
+  Laravel             ██████████████████░░  90%
+  PostgreSQL          ██████████████████░░  90%
+  Server Management   ██████████████████░░  90%
 
 raghu@studio:~$ ./connect.sh
 
-  → raghug.com
-  → x.com/raghugopalan
-```
+  → <a href="https://raghug.com">raghug.com</a>
+  → <a href="https://x.com/raghugopalan">x.com/raghugopalan</a>
+
+raghu@studio:~$ █
+</pre>
