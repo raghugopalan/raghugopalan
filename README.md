@@ -2,35 +2,54 @@
 raghu@studio:~$ whoami
 
   Raghu G
-  Designer &amp; Creative Director
-  Founder, RG STUDIO → <a href="https://rgstudio.org">rgstudio.org</a>
+  Designer · Developer · Creative Director
+  Founder, RG STUDIO — <a href="https://rgstudio.org">rgstudio.org</a>
 
 raghu@studio:~$ cat about.txt
 
-  I connect the dots between design, words and code.
-  I shape the idea, write the story, and build the
-  thing that ships.
+  20+ years across creative and digital industries,
+  working where visual design, product thinking and
+  software development meet.
 
-raghu@studio:~$ cat skills.txt
+  I shape the idea, design the experience, write the
+  story, and build the product that ships.
 
-  # design
-  Creative Direction  ███████████████████░  95%
-  UI/UX Design        ███████████████████░  95%
-  Product Design      ██████████████████░░  90%
+raghu@studio:~$ ls ~/work
 
-  # words
-  Writing             █████████████████░░░  85%
+  design/    Creative Direction · UI/UX · Product Design
+             Visual Systems · Digital Experiences
 
-  # code
-  MySQL               ███████████████████░  95%
-  Laravel             ██████████████████░░  90%
-  PostgreSQL          ██████████████████░░  90%
-  Server Management   ██████████████████░░  90%
+  develop/   PHP · Laravel · JavaScript · HTML · CSS
+             PostgreSQL · MySQL · REST APIs
+
+  build/     SaaS Products · Business Applications
+             Web Platforms · Prototypes
+
+  deploy/    Linux · Nginx · Server Setup · Deployments
+
+raghu@studio:~$ cat now.txt
+
+  → Building practical digital products
+  → Full-stack web apps, designed end to end
+  → Turning ideas into things people use
+
+raghu@studio:~$ cat philosophy.txt
+
+  Good design makes things clear.
+  Good code makes things work.
+  Good products bring the two together.
+
+  Less noise. More meaning.
 
 raghu@studio:~$ ./connect.sh
 
-  → <a href="https://raghug.com">raghug.com</a>
-  → <a href="https://x.com/raghugopalan">x.com/raghugopalan</a>
+  Studio     → <a href="https://rgstudio.org">rgstudio.org</a>
+  Portfolio  → <a href="https://raghug.com">raghug.com</a>
+  X          → <a href="https://x.com/raghugopalan">x.com/raghugopalan</a>
+
+raghu@studio:~$ echo "Connecting the dots."
+
+  Connecting the dots.
 
 raghu@studio:~$ █
 </pre>
